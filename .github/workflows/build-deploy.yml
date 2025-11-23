@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
 
 env:
-  CONTAINER_REGISTRY: handson01repo00123.azurecr.io
+  CONTAINER_REGISTRY: cicd2025fn3ke44krdryu.azurecr.io
 
 jobs:
   build:
