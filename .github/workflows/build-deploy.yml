@@ -1,4 +1,4 @@
-name: Trigger auto deployment
+ name: Trigger auto deployment
  on:
    # 手動実行用トリガー
    workflow_dispatch:      
